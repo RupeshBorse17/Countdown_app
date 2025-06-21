@@ -14,3 +14,8 @@ A simple and responsive countdown timer web application that displays a visual p
 - JavaScript
 
 Initial commit - Countdown App
+
+## 🚀 Live Demo
+
+[Click here to try the Countdown Timer]
+(https://rupeshborse17.github.io/Countdown_app/)
